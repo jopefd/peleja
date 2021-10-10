@@ -6,6 +6,11 @@
 *.lo
 *.o
 *.obj
+*Doxyfile
+**bin
+**html
+**latex
+
 
 # Precompiled Headers
 *.gch
